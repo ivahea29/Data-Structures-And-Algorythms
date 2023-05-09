@@ -1,0 +1,15 @@
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\bin\Debug\net6.0\task5.exe
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\bin\Debug\net6.0\task5.deps.json
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\bin\Debug\net6.0\task5.runtimeconfig.json
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\bin\Debug\net6.0\task5.dll
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\bin\Debug\net6.0\task5.pdb
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\task5.csproj.AssemblyReference.cache
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\task5.AssemblyInfoInputs.cache
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\task5.AssemblyInfo.cs
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\task5.csproj.CoreCompileInputs.cache
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\task5.dll
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\refint\task5.dll
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\task5.pdb
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\task5.genruntimeconfig.cache
+C:\Wintec 2022\DataStructuresAndAlgoryithms\Assignment\task5\obj\Debug\net6.0\ref\task5.dll
